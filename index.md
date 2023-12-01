@@ -1,4 +1,4 @@
-## Welcome to Ankit bhai ka darbaar
+## Welcome 
 
 You can use the [editor on GitHub](https://github.com/ankit-0-mittal/ankit-0-mittal.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
